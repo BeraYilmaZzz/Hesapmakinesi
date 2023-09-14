@@ -1,2 +1,2 @@
 # Hesapmakinesi
- Swicth ve case kullanılarak oluşturulmuş bir hesap makinesi programı.
+ Swicth case yapısı kullanılarak oluşturulmuş bir hesap makinesi programı.
